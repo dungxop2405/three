@@ -22,7 +22,7 @@
     "koa-body": "^1.4.0",
     "koa-router": "^5.3.0",
     "koa-static": "^2.0.0",
-    "opencv": "^2.4.10"
+    "opencv": "^3.0.0"
   },
   "engines": {
     "node": "10.3.0",
