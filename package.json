@@ -1,5 +1,5 @@
 {
-  "name": "docker-heroku-nodejs-opencv-sample",
+  "name": "sample",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
