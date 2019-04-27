@@ -1,3 +1,4 @@
 #!/bin/bash -e
 
+exec npm install opencv
 exec npm start
