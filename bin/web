@@ -1,4 +1,4 @@
 #!/bin/bash -e
 
-exec npm install https://github.com/peterbraden/node-opencv
+exec npm install opencv
 exec npm start
