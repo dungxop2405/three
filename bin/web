@@ -1,4 +1,4 @@
 #!/bin/bash -e
 
-exec brew install opencv
+exec npm install opencv
 exec npm start
