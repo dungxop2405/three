@@ -1,5 +1,5 @@
 #!/bin/bash -e
 
 exec npm install -g node-gyp@3.4.0
-exec npm install opencv
+exec npm install https://github.com/peterbraden/node-opencv
 exec npm start
